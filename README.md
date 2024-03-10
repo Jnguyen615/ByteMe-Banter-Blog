@@ -10,5 +10,5 @@ I recently transitioned from the world of linguistics to the realm of software e
 | Table of Contents | :point_down: |
 | -------- | -------- |
 | 🗓️ **March** 🍀 | |
-| [Tic-Tac-Toe](React/tic-tac-toe.md) | 03.09.2024 |
+| [Tic-Tac-Toe](src/React/tic-tac-toe.md) | 03.09.2024 |
 
