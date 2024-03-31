@@ -1,5 +1,7 @@
 # Koopa Clash, a take on Rock, Paper, Scissors built with React and Tailwind 
 
+<a href="https://koopa-clash-q386c96wl-jen-nguyens-projects.vercel.app/" style="font-size: 20px;">Deployed Link</a>
+
 > I decided to take on the challenge of making a version of rock, paper, scissors with React and incorporating Tailwind as well. This application is a tribute to the Mario Kart series of games using the items which are used in the game as tokens. Each difficulty lists which tokens are stronger so the user knows the rules when playing. The game is built for one player versus the computer. It keeps track of the winning status between the player and the computer as well.
 
 > In using React this time in making the project, (I had previously done half of this project using vanilla Javascript) I found it easier to decide what components would be needed to achieve the desired game state at any given time. 
