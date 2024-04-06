@@ -6,14 +6,14 @@
 ```JS
 const devs = [
   {firstName: 'Nicole', lastName: 'Lam', specialty: 'Accessibility}, 
-  {firstName: 'Jen', lastName: 'Dmytrenko', specialty: 'Sass'}
+  {firstName: 'Jen', lastName: 'Dmytrenko', specialty: 'Tailwind'}
 ]
 
 const result = devss.map(dev => dev.firstName + ' ' + dev.lastName);
-console.log(result); //['Nicole Lam', 'Tina Deo']
+console.log(result); //['Nicole Lam', 'Jen Dmytrenko']
 
 const specialty = devs.map(dev => dev.specialty);
-console.log(specialty); //['ENT', 'Family Medicine']\
+console.log(specialty); //['Accessibility, 'Tailwind']\
 
 //Callback function that will be passed as a parameter in the higher order function 
 const callbackFunction1 = () => {
@@ -40,4 +40,6 @@ higherOrderFunction(callbackFunction2)
 > it calls the function passed to it (callbackFunction), which logs 'I am a callback function' to the console.
 
 # Benefits of Higher Order Functions  
-> ✅ improve legibility of code, making it more concise and easy to undersetand ✅ can speed up developemnt process ✅ make it easier to debug code
+- ✅ improve legibility of code, making it more concise and easy to undersetand 
+- ✅ can speed up developemnt process 
+- ✅ make it easier to debug code
