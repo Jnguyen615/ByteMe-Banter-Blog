@@ -13,7 +13,7 @@ const result = devss.map(dev => dev.firstName + ' ' + dev.lastName);
 console.log(result); //['Nicole Lam', 'Jen Dmytrenko']
 
 const specialty = devs.map(dev => dev.specialty);
-console.log(specialty); //['Accessibility, 'Tailwind']\
+console.log(specialty); //['Accessibility, 'Tailwind']
 
 //Callback function that will be passed as a parameter in the higher order function 
 const callbackFunction1 = () => {
@@ -34,10 +34,9 @@ higherOrderFunction(callbackFunction1)
 higherOrderFunction(callbackFunction2)
 ```
 
-> in the above code, higherOrderFunction() is a higher order function because we are passing a callback function as a parameter to it!
-> higherOrderFunction is invoked with callbackFunction as its argument.
-> inside higherOrderFunction, it logs 'I am a higher function' to the console.
-> it calls the function passed to it (callbackFunction), which logs 'I am a callback function' to the console.
+- in the above code, higherOrderFunction() is a higher order function because we are passing a callback function as a parameter to it!
+ - higherOrderFunction is invoked with callbackFunction as its argument. inside higherOrderFunction, it logs 'I am a higher function' to the console.
+- it calls the function passed to it (callbackFunction), which logs 'I am a callback function' to the console.
 
 # Benefits of Higher Order Functions  
 - ✅ improve legibility of code, making it more concise and easy to undersetand 
