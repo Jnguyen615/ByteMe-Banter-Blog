@@ -18,3 +18,4 @@ I recently transitioned from the world of linguistics to the realm of software e
 | -------- | -------- |
 | 🗓️ **April** 🌺 | |
 |[Closures](src/Javascript/Closures.md) | 4.16.2024 |
+|[Lexcial-Scoping](src/Javascript/LexicalScoping.md)| 4.16.2024 |
