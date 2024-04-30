@@ -19,3 +19,5 @@ I recently transitioned from the world of linguistics to the realm of software e
 | 🗓️ **April** 🌺 | |
 |[Closures](src/Javascript/Closures.md) | 4.16.2024 |
 |[Lexcial-Scoping](src/Javascript/LexicalScoping.md)| 4.16.2024 |
+|[Travel-Blog] | 4.25.2024 |
+|[LeetCode - Remove Duplicates](src/LeetCode%20/RemoveDuplicates.md) | 4.30.2024 |
