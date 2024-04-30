@@ -14,7 +14,7 @@ I recently transitioned from the world of linguistics to the realm of software e
 | [Tic-Tac-Toe](src/React/tic-tac-toe.md) | 03.09.2024 |
 | [About-Me-Blog](src/React/about-me-blog.md) | 03.22.2024 | 
 | [Koopa-Clash](src/React/koopa-clash.md) | 3.29.2024 |
-| [Higher-order-functions](src/Javascript/HigherOrderFunctions.md) | 3.30/2024 |
+| [Higher-order-functions](src/Javascript/HigherOrderFunctions.md) | 3.30.2024 |
 | -------- | -------- |
 | 🗓️ **April** 🌺 | |
 |[Closures](src/Javascript/Closures.md) | 4.16.2024 |
